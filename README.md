@@ -9,11 +9,6 @@ Practicing webpack
 * Javascript
 * webpack
 
-## Live Demo 
-
-[Live Demo Link](/)
-
-
 
 ## Getting started 
 
